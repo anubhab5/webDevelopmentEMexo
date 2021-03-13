@@ -1,0 +1,20 @@
+p {
+    text-transform: uppercase;
+    color: red;
+}
+
+.selector-class {
+    color: blue;
+}
+
+.make-it-capital {
+    text-transform: uppercase;
+}
+
+#test-1 {
+    color: greenyellow;
+}
+
+#test-2 {
+    color: yellow;
+}

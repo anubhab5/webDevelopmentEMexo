@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background: yellow;
+    border: solid 5px rgb(197, 37, 37);
+    padding: 50px 20px;
+    margin: 100px;
+}
+
+h2 {
+    margin-top: 200px;
+}
