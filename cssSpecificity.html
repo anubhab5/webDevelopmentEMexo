@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <link rel="stylesheet" href="./cssSpecificity.css">
+</head>
+
+<body>
+
+    <code>Two or more conflicting css rules one will get the priority , it is determined by css specificity</code>
+
+    <h3>RULES</h3>
+    <ol>
+        <li>INLINE STYLE HAS HIGHEST SPECIFICITY : 1000</li>
+        <li>ID : 100</li>
+        <li>Class, Attribute, pseudo class: 10</li>
+        <li>element name, pseudo element : 1</li>
+        <li>same Selector with diff values => who ever comes last will win </li>
+    </ol>
+
+    <!-- <h1>This is heading</h1> -->
+
+    <div id="myTest">
+        <a style="color: aqua;" href="" class='anchor-cls'>Google</a>
+    </div>
+
+    <!-- <img src="./assets/images/img_avatar2.png" alt=""> -->
+
+</body>
+
+</html>

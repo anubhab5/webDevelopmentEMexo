@@ -1,0 +1,10 @@
+a[target="_blank"] {
+    background-color: teal;
+    color: white;
+    font-size: 32px;
+    letter-spacing: 2px;
+}
+
+h3[title="This is demo"] {
+    color: tomato;
+}

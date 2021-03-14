@@ -1,0 +1,46 @@
+/* h1 {
+    color: red;
+}
+
+h1 {
+    color: blue;
+} */
+
+
+/* 1 + 100 + 1 = 102 */
+
+div#myTest a {
+    color: yellow;
+}
+
+
+/* 10  */
+
+.anchor-cls {
+    color: green;
+}
+
+
+/* 1 + 1 = 2 */
+
+
+/* 1 */
+
+div a {
+    color: red;
+}
+
+
+/* 1 */
+
+a {
+    color: red!important;
+}
+
+img {
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+}

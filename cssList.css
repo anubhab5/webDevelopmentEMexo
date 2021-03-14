@@ -1,0 +1,11 @@
+body {
+    font-family: 'Fascinate', cursive;
+}
+
+ul {
+    /* list-style-image: url(./assets/images/bg-img.jpg); */
+}
+
+ol {
+    list-style-type: upper-roman;
+}

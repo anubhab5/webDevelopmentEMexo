@@ -1,0 +1,30 @@
+/* img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+header {
+    background-color: teal;
+    color: white;
+    position: fixed;
+    height: 80px;
+    width: 100vw;
+}
+
+div {
+    position: absolute;
+    top: 20px;
+}
+
+p {
+    position: relative;
+} */
+
+.rel {
+    position: relative;
+}
+
+.abs {
+    position: absolute;
+}
