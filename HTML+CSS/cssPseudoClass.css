@@ -1,0 +1,47 @@
+* {
+  background-color: gray;
+  font-size: small;
+}
+
+/* a:link {
+  color: turquoise;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
+}
+
+div {
+  color: red;
+  background-color: mistyrose;
+  padding: 20px;
+  border: solid 2px red;
+}
+
+div:hover {
+  color: green;
+  background-color: greenyellow;
+  cursor: not-allowed;
+} */
+
+/* .my-name {
+  color: yellow;
+  background-color: blueviolet;
+  width: 50%;
+  font-size: x-large;
+}
+.my-name:hover {
+  color: blue;
+} */
+
+div {
+    background-color: red;
+}
