@@ -25,6 +25,5 @@ console.log(priceTag.toPrecision(9));
 // console.log(typeof(numberConverted));
 
 // ES6 FEATURES
-// STRICT
 // OBJECT - THIS
 // DOM MAN
